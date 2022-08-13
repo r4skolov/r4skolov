@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<h2 align=left> Hello, Visitor <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br>I'm Artem</h2>
+<h2 align=left>Привет<br>Я, Артем начинающий веб-разработчик</h2>
 
+
+---
+<h2 align=left>Мои работы</h2>
 
 <!--
 **r4skolov/r4skolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
