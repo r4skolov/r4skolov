@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align=center> Hello, Visitor <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br>I'm Alexander from Russia <img height="25px" src="https://github.com/Wyndace/Wyndace/blob/main/ru_flag.png"></h2>
+<h2 align=left> Hello, Visitor <img style="margin-left: 5px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br>I'm Artem</h2>
 
 
 <!--
