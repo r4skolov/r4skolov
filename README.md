@@ -8,8 +8,8 @@
 1.<a traget="_blank" href="https://github.com/r4skolov/dentlman">github</a><br>
 2.<a traget="_blank" href="https://r4skolov.github.io/dentlman/index.html">github pages</a><br>
 
-## Проект Неймарк.Metaverse
+## Проект iKode
 
-1.<a traget="_blank" href="https://github.com/r4skolov/neymark">github</a><br>
-2.<a traget="_blank" href="https://r4skolov.github.io/neymark/index.html">github pages</a><br>
+1.<a traget="_blank" href="https://github.com/r4skolov/iKode">github</a><br>
+2.<a traget="_blank" href="https://r4skolov.github.io/iKode/index.html">github pages</a><br>
 
