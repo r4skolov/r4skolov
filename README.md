@@ -1,3 +1,8 @@
+## Fancy
+
+1.<a traget="_blank" href="https://github.com/r4skolov/fancy">github</a><br>
+2.<a traget="_blank" href="https://r4skolov.github.io/fancy/index.html">github pages</a><br>
+
 ## Проект iKode
 
 1.<a traget="_blank" href="https://github.com/r4skolov/iKode">github</a><br>
@@ -11,7 +16,7 @@
 ## Проект Astra
 
 1.<a traget="_blank" href="https://github.com/r4skolov/astra">github</a><br>
-2.<a traget="_blank" href="https://r4skolov.github.io/sonatom/astra.html">github pages</a><br>
+2.<a traget="_blank" href="https://r4skolov.github.io/astra/index.html">github pages</a><br>
 
 ## Проект dentlman
 
