@@ -1,3 +1,8 @@
+## Westmin
+
+1.<a traget="_blank" href="https://github.com/r4skolov/westmin">github</a><br>
+2.<a traget="_blank" href="https://r4skolov.github.io/westmin/index.html">github pages</a><br>
+
 ## Fancy
 
 1.<a traget="_blank" href="https://github.com/r4skolov/fancy">github</a><br>
